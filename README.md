@@ -8,7 +8,7 @@
 ---
 ### 🛠💻 Tech & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,react,nextjs,php,figma,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,py,django,mysql,postgre,ai,ps,pr,git,github&theme=dark" />
 </p>
 
 
