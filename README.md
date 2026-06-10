@@ -1,6 +1,8 @@
 ## 👋 Hi , I'm **Charlin Elicar**
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0072b1&height=200&section=header&text=Anjara%20Charlin&fontSize=70&animation=fadeIn" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0072B1&center=true&vCenter=true&width=435&lines=Développeur+Fullstack;Passionné+par+l'IA;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
+  </a>
 </p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web+Fullstack;Passionn%C3%A9+par+Laravel+%26+Django;Agilit%C3%A9+et+Performance+Web" alt="Typing SVG" />
 
