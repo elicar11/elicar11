@@ -30,4 +30,6 @@ Je suis un **Développeur Web** passionné par la création d'applications moder
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/charlinelicar/?locale=fr_FR)
 
 ---
-
+<p align="center">
+## ✨"You don't need to know everything, you just need to keep learning."✨
+</p>
