@@ -1,6 +1,6 @@
 ## 👋 Hi , I'm **Charlin Elicar**
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072b1&height=250&section=header&text=Anjara%20Charlin%20Elicar&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Anjara%20Charlin&fontSize=70&animation=fadeIn" />
 </p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web+Fullstack;Passionn%C3%A9+par+Laravel+%26+Django;Agilit%C3%A9+et+Performance+Web" alt="Typing SVG" />
 
