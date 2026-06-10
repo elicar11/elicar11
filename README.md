@@ -31,5 +31,5 @@ Je suis un **Développeur Web** passionné par la création d'applications moder
 
 ---
 <p align="center">
-## ✨"You don't need to know everything, you just need to keep learning."✨
+✨"You don't need to know everything, you just need to keep learning."✨
 </p>
