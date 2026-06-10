@@ -1,6 +1,6 @@
 ## 👋 Hi , I'm **Charlin Elicar**
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=D%C3%A9veloppeur+Web;Passionn%C3%A9+par+Laravel+%26+Django;Adepte+de+l'agilit%C3%A9+et+de+la+performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web+Fullstack;Passionn%C3%A9+par+Laravel+%26+Django;Agilit%C3%A9+et+Performance+Web" alt="Typing SVG" />
 
 
 ---
