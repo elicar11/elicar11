@@ -28,10 +28,6 @@ Je suis un **Développeur Web** passionné par la création d'applications moder
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjaracharlinelicar@gmail.com)
 [![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/261324198555)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/TON_PROFIL_ICI)
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0072b1&height=200&section=header&text=Anjara%20Charlin&fontSize=70&animation=fadeIn" />
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0072b1&height=200&section=header&text=Anjara%20Charlin&fontSize=70&animation=fadeIn" />
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0072b1&height=200&section=header&text=Anjara%20Charlin&fontSize=80&animation=fadeIn" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0072b1&secondaryColor=36BCF7&height=200&section=header&text=Anjara%20Charlin&fontSize=70&animation=fadeIn" />
+
 ---
-*Dernière mise à jour : 2026*
 
