@@ -29,10 +29,8 @@ Je suis un **Développeur Web** passionné par la création d'applications moder
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-#### 🎨 Design & Gestion
-![Adobe Photoshop](https://img.shields.io/badge/%23PS-001E36.svg?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![Adobe Illustrator](https://img.shields.io/badge/%23AI-330000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
-**Modélisation :** UML & Merise | **Gestion :** Agile (Scrum/Kanban)
+#### 🎨 Design Graphisme
+ <img src="https://skillicons.dev/icons?i=ai,ps,pr&theme=dark" />
 
 ---
 
