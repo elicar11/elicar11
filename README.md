@@ -19,7 +19,7 @@ Je suis un **Développeur Web** passionné par la création d'applications moder
 <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github&theme=dark" />
 
 #### 🎨 Design Graphisme
- <img src="https://skillicons.dev/icons?i=ai,ps,pr&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=ai,ps,xd,pr&theme=dark" />
 
 
 ---
