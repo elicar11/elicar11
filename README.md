@@ -1,6 +1,5 @@
-## 👋 Hi , I'm **</Charlin Elicar>**
----
-<img width="1178" height="356" alt="image" src="https://github.com/user-attachments/assets/a2565d70-0aa1-483b-8fb8-4ee4c870d373" />
+
+<img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/a2565d70-0aa1-483b-8fb8-4ee4c870d373" />
 
 ---
 <p align="center">
