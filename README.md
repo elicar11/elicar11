@@ -21,6 +21,13 @@ Je suis un **Développeur Web** passionné par la création d'applications moder
 #### 🎨 Design Graphisme
  <img src="https://skillicons.dev/icons?i=ai,ps,pr&theme=dark" />
 
+ ---
+ ### 📊 Mes Statistiques GitHub
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elicar11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elicar11&layout=compact&theme=tokyonight"/>
+</p>
+
 
 ---
 
