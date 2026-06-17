@@ -1,4 +1,4 @@
-#👋 Hi , I'm **</Charlin $\color{blue}{\mathbf{ELICAR}}$ >**
+#👋 Hi , I'm **</Charlin $\color{blue}{\huge \mathbf{ELICAR}}$ >**
 $\color{orange}{\huge \mathbf{Bienvenue\ sur\ mon\ profil}}$
 ---
 <p align="center">
