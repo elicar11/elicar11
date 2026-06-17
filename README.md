@@ -1,5 +1,8 @@
 ## 👋 Hi , I'm **</Charlin Elicar>**
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%7B;%20%20%22name%22%3A%20%22Anjara%20Charlin%20Elicar%22%2C;%20%20%22role%22%3A%20%22Fullstack%20Developer%22%2C;%20%20%22location%22%3A%20%22Madagascar%22;%7D" alt="Typing SVG" />
+</p>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web+Fullstack;Passionn%C3%A9+par+Laravel+%26+Django;Agilit%C3%A9+et+Performance+Web" alt="Typing SVG" />
 </p>
 
