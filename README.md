@@ -28,6 +28,10 @@ Je suis un **Développeur Web** passionné par la création d'applications moder
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elicar11&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elicar11&layout=compact&theme=tokyonight&hide_border=false" />
+
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=steverasoafanirindraibe&color=2bbc8a&style=flat-square&label=VISITEURS" alt="Visitors" />
+
 </p>
 
 
