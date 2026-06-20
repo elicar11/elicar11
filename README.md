@@ -31,8 +31,7 @@ Je suis un **Développeur Web** passionné par la création d'applications moder
 
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=elicar11&color=0072b1&style=flat-square&label=VISITEURS+PROFIL" alt="Compteur de vues" />
-
+ ![](https://komarev.com/ghpvc/?username=elicar11&style=flat-square)
 </p>
 
 
