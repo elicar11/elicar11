@@ -31,7 +31,7 @@ Je suis un **Développeur Web** passionné par la création d'applications moder
 
   <br/>
   
- ![](https://komarev.com/ghpvc/?username=elicar11&style=flat-square)
+ ![](https://komarev.com/ghpvc/?username=elicar11&style=plastic)
 </p>
 
 
