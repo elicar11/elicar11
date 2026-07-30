@@ -35,8 +35,7 @@ Je suis un **Développeur Web** passionné par la création d'applications moder
 </p>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=elicar11" alt="GitHub profile views counter">
---- 
-
+---
 
 ### 📫 Me contacter
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjaracharlinelicar@gmail.com)
