@@ -31,10 +31,9 @@ Je suis un **Développeur Web** passionné par la création d'applications moder
 
   <br/>
   
- ![](https://komarev.com/ghpvc/?username=elicar11&style=pixel)
+ ![](https://komarev.com/ghpvc/?username=elicar11)
 </p>
 
-<!-- <img align="right" src="https://komarev.com/ghpvc/?username=elicar11" alt="GitHub profile views counter"> -->
 ---
 
 ### 📫 Me contacter
